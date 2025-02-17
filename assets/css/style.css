@@ -1,0 +1,21 @@
+.circle-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.p-name {
+  display: none;
+}
+
+footer {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  color: #333;
+  background-image: linear-gradient(
+    to left,
+    #e58ff4 0%,
+    #bbffa0 50%,
+    #ffb3a0 100%
+  );
+}
