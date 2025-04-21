@@ -9,7 +9,7 @@ layout: home
 
 <div class="index-parent">
 <img src="/images/iurii.jpg"  class="circle-image">
-<h1>&nbsp;&nbsp;&nbsp;Code, learn, improve, repeat.</h1>
+&nbsp;&nbsp;&nbsp;<h1>Code, learn, improve, repeat.</h1>
 </div>
 
 Hi there 👋! I'm Iurii, a passionate software developer with a drive to create impactful solutions. My journey in tech began with a fascination for how code can transform ideas into reality. Over the years, I've honed my skills in building scalable web applications using modern technologies like Elixir, TypeScript, and React.
